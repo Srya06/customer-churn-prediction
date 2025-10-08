@@ -1,0 +1,22 @@
+﻿# Customer Churn Project - Dependencies
+
+## Core Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+## Machine Learning
+xgboost>=1.5.0
+
+## Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+## Dashboard
+streamlit>=1.0.0
+
+## Utilities
+jupyter>=1.0.0
+
+## Installation
+pip install -r requirements.txt
