@@ -11,8 +11,8 @@ End-to-end machine learning system that predicts customer churn with 80%+ accura
 - 🔍 **Data Exploration** and visualization
 
 
-## 🚀 Quick Start
-\\\ash
+# 🚀 Quick Start
+
 # 1. Install dependencies
 pip install -r requirements.txt
 
