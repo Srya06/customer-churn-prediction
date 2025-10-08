@@ -10,29 +10,6 @@ End-to-end machine learning system that predicts customer churn with 80%+ accura
 - 📊 **Interactive Dashboard** with real-time predictions
 - 🔍 **Data Exploration** and visualization
 
-## 🏗️ Project Structure
-\\\
-churn_project/
-├── data/                    # Datasets
-│   ├── telco_churn.csv
-│   └── telco_churn_cleaned.csv
-├── notebooks/               # Data analysis & exploration
-│   ├── data_exploration.py
-│   ├── data_cleaning.py
-│   └── quick_insights.py
-├── scripts/                 # ML models & utilities
-│   ├── first_ml_model.py
-│   ├── improved_model.py
-│   ├── model_comparison.py
-│   └── project_showcase.py
-├── assets/                  # Charts & visualizations
-│   ├── churn_by_contract.png
-│   ├── churn_by_internet.png
-│   └── model_comparison.png
-├── dashboard.py             # Main dashboard
-├── enhanced_dashboard.py    # Advanced dashboard
-└── requirements.txt         # Dependencies
-\\\
 
 ## 🚀 Quick Start
 \\\ash
