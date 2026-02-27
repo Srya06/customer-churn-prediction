@@ -1,11 +1,11 @@
 ﻿# 🎉 PROJECT SHOWCASE READY!
 
-Your Customer Churn Prediction project is now professionally organized!
+ Customer Churn Prediction project is now professionally organized!
 
 ## 🗂️ Current Structure:
 \\\
 churn_project/
-├── data/           # Your datasets
+├── data/           #  datasets
 ├── notebooks/      # Analysis scripts  
 ├── scripts/        # ML models
 ├── assets/         # Charts & images
@@ -13,7 +13,7 @@ churn_project/
 └── README.md       # Documentation
 \\\
 
-## 🚀 To Showcase Your Project:
+## 🚀 To Showcase the Project:
 
 1. **Run the dashboard:**
    \\\ash
